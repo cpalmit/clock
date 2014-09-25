@@ -1,4 +1,4 @@
-<? 
+<?php 
 date_default_timezone_set("America/New_York");
 $timezone = date("e");
 $time = date("h:i a");
